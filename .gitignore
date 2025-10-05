@@ -40,3 +40,5 @@ instance/
 
 # Log files
 *.log
+
+.venv
